@@ -1,8 +1,6 @@
-# Agentic HR Assistant Pro 👔
+# Agentic HR Assistant 👔
 
 A Streamlit-based application leveraging multiple AI agents to automate and streamline the initial stages of the recruitment process, from job description creation to candidate analysis and initial communication.
-
-![Screenshot (Optional - Add a screenshot of your app here)]
 
 ## Table of Contents
 
@@ -27,7 +25,7 @@ A Streamlit-based application leveraging multiple AI agents to automate and stre
 
 ## Project Overview
 
-Agentic HR Assistant Pro is designed to assist HR professionals and hiring managers by automating repetitive tasks in the recruitment pipeline. It uses a multi-agent system, where each agent specializes in a specific task, collaborating to provide a seamless workflow. The application helps in:
+Agentic HR Assistant is designed to assist HR professionals and hiring managers by automating repetitive tasks in the recruitment pipeline. It uses a multi-agent system, where each agent specializes in a specific task, collaborating to provide a seamless workflow. The application helps in:
 
 *   Generating and refining professional job descriptions.
 *   Parsing candidate resumes (PDFs) to extract text.
@@ -117,7 +115,7 @@ The core of this application lies in its specialized agents, each handling a dis
     1.  Go to your Google Account -> Security.
     2.  Ensure 2-Step Verification is ON.
     3.  Go to App passwords.
-    4.  Select "Mail" for the app and "Other (Custom name)" for the device (e.g., "HR Assistant Pro").
+    4.  Select "Mail" for the app and "Other (Custom name)" for the device (e.g., "HR Assistant").
     5.  Generate the password and copy the 16-character code. **Save this securely.**
 
 ### Installation
